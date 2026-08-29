@@ -1,0 +1,254 @@
+[
+  {
+    "id": "",
+    "name": "myFM 101.3 - CJML",
+    "country": "canada",
+    "location": "Milton • Canada",
+    "streamUrl": "https://localradio.streamb.live/SB00095"
+  },
+  {
+    "id": "",
+    "name": "Radio CHED 630 AM",
+    "country": "canada",
+    "location": "Edmonton, Alberta • Canada",
+    "streamUrl": "https://live.leanstream.co/CHEDAM"
+  },
+  {
+    "id": "",
+    "name": "Radio CHQR 770 AM",
+    "country": "canada",
+    "location": "Calgary, Alberta • Canada",
+    "streamUrl": "https://corus.leanstream.co/CHQRAM-MP3?type=.mp3&playertype=dplayer&DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YYY&partnertok=eyJhbGciOiJIUzI1NiJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc2MjYxODI4NCwiaXNzIjoidGlzcNew YorkifQ.bVp1LgW_1PMJ_qheVVssDWbHWFkWQLv6K7C0xL4EWfM"
+  },
+  {
+    "id": "",
+    "name": "Fox FM",
+    "country": "canada",
+    "location": "Yorkton • Canada",
+    "streamUrl": "https://ais-sa1.streamon.fm/7252_64k.aac"
+  },
+  {
+    "id": "",
+    "name": "CIDC FM Z103.5",
+    "country": "canada",
+    "location": "Toronto • Canada",
+    "streamUrl": "https://evanov.streamb.live/SB00222"
+  },
+  {
+    "id": "",
+    "name": "iLive Radio",
+    "country": "canada",
+    "location": "Toronto • Canada",
+    "streamUrl": "https://streaming.radio.co/s735df8c1c/listen"
+  },
+  {
+    "id": "",
+    "name": "Indie 88",
+    "country": "canada",
+    "location": "Toronto • Canada",
+    "streamUrl": "https://localradio.streamb.live/SB00348"
+  },
+  {
+    "id": "",
+    "name": "CKUT 90.3 FM",
+    "country": "canada",
+    "location": "Montréal • Canada",
+    "streamUrl": "https://ckut.out.airtime.pro/ckut_a"
+  },
+  {
+    "id": "",
+    "name": "88.1 CJWE",
+    "country": "canada",
+    "location": "Calgary • Canada",
+    "streamUrl": "https://windspeaker-media.streamb.live/SB00293"
+  },
+  {
+    "id": "",
+    "name": "C97.7",
+    "country": "canada",
+    "location": "Calgary • Canada",
+    "streamUrl": "https://rawlco.leanstream.co/CHUPFM"
+  },
+  {
+    "id": "",
+    "name": "CJLI AM 700 The Light",
+    "country": "canada",
+    "location": "Calgary • Canada",
+    "streamUrl": "https://shinefm.streamguys1.com/cjli"
+  },
+  {
+    "id": "",
+    "name": "CJSI 88.9 Shine FM",
+    "country": "canada",
+    "location": "Calgary • Canada",
+    "streamUrl": "https://shinefm.streamguys1.com/cjsi"
+  },
+  {
+    "id": "",
+    "name": "CJSW 90.9 FM",
+    "country": "canada",
+    "location": "Calgary • Canada",
+    "streamUrl": "https://cjsw.leanstream.co/CJSWFM"
+  },
+  {
+    "id": "",
+    "name": "660 News",
+    "country": "canada",
+    "location": "Calgary • Canada",
+    "streamUrl": "https://rogers-hls.leanstream.co/rogers/cal660.stream/icy"
+  },
+  {
+    "id": "",
+    "name": "CKRY Country 105",
+    "country": "canada",
+    "location": "Calgary • Canada",
+    "streamUrl": "https://live.leanstream.co/CKRYFM-MP3"
+  },
+  {
+    "id": "",
+    "name": "Sportsnet AM 960",
+    "country": "canada",
+    "location": "Calgary • Canada",
+    "streamUrl": "https://rogers-hls.leanstream.co/rogers/cal960.stream/icy"
+  },
+  {
+    "id": "",
+    "name": "Chuck @ 92.5",
+    "country": "canada",
+    "location": "Edmonton • Canada",
+    "streamUrl": "https://corus.leanstream.co/CKNGFM"
+  },
+  {
+    "id": "",
+    "name": "CJNW 107.1",
+    "country": "canada",
+    "location": "Edmonton • Canada",
+    "streamUrl": "https://ais-sa1.streamon.fm/7260_64k.aac"
+  },
+  {
+    "id": "",
+    "name": "89.3 the Raven",
+    "country": "canada",
+    "location": "Edmonton • Canada",
+    "streamUrl": "https://windspeaker-media.streamb.live/SB00292"
+  },
+  {
+    "id": "",
+    "name": "AIR Algonquin AM 1700",
+    "country": "canada",
+    "location": "Ottawa • Canada",
+    "streamUrl": "https://live.leanstream.co/AIR1700"
+  },
+  {
+    "id": "",
+    "name": "Mix 98.5 - CITM FM",
+    "country": "canada",
+    "location": "Ottawa • Canada",
+    "streamUrl": "https://torres-media.streamb.live/SB00377"
+  },
+  {
+    "id": "",
+    "name": "CFRA AM 580",
+    "country": "canada",
+    "location": "Ottawa • Canada",
+    "streamUrl": "https://15693.live.streamtheworld.com/CFRAAMAAC.aac"
+  },
+  {
+    "id": "",
+    "name": "Mix97FM",
+    "country": "canada",
+    "location": "Ottawa • Canada",
+    "streamUrl": "https://panel.radiocast.net/listen/mix97fm/radio.mp3"
+  },
+  {
+    "id": "",
+    "name": "Rebel 101.7",
+    "country": "canada",
+    "location": "Ottawa • Canada",
+    "streamUrl": "https://torres-media.streamb.live/SB00189"
+  },
+  {
+    "id": "",
+    "name": "TSN 1200",
+    "country": "canada",
+    "location": "Ottawa • Canada",
+    "streamUrl": "https://26313.live.streamtheworld.com/CFGOAMAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250%252C300x600%252C728x90%252C970x250&sbmid=f599d893-5a6e-4fb3-d174-24b50bb94033"
+  },
+  {
+    "id": "",
+    "name": "98.1 Free FM - CKLO-FM",
+    "country": "canada",
+    "location": "London • Canada",
+    "streamUrl": "https://live.leanstream.co/CKLOFM-MP3"
+  },
+  {
+    "id": "",
+    "name": "CFHK - 1031 Fresh FM",
+    "country": "canada",
+    "location": "London • Canada",
+    "streamUrl": "https://live.leanstream.co/CFHKFM-MP3"
+  },
+  {
+    "id": "",
+    "name": "CIXX - 106.9 The X",
+    "country": "canada",
+    "location": "London • Canada",
+    "streamUrl": "https://ice23.securenetsystems.net/CIXXFM"
+  },
+  {
+    "id": "",
+    "name": "104.9 the Wolf",
+    "country": "canada",
+    "location": "Regina • Canada",
+    "streamUrl": "https://ais-sa1.streamon.fm/7255_64k.aac"
+  },
+  {
+    "id": "",
+    "name": "620 CKRM",
+    "country": "canada",
+    "location": "Regina • Canada",
+    "streamUrl": "https://ais-sa1.streamon.fm/7267_64k.aac"
+  },
+  {
+    "id": "",
+    "name": "980 CJME News, Talk, Sports (CJME)",
+    "country": "canada",
+    "location": "Regina • Canada",
+    "streamUrl": "https://rawlco.leanstream.co/CJMEAM"
+  },
+  {
+    "id": "",
+    "name": "Fresh Radio 100.5",
+    "country": "canada",
+    "location": "Peterborough • Canada",
+    "streamUrl": "https://corus.leanstream.co/CKRUFM"
+  },
+  {
+    "id": "",
+    "name": "98 Cool - CJMK-FM",
+    "country": "canada",
+    "location": "Saskatoon • Canada",
+    "streamUrl": "https://18063.live.streamtheworld.com/CJMKFMAAC.aac"
+  },
+  {
+    "id": "",
+    "name": "C95 (CFMC)",
+    "country": "canada",
+    "location": "Saskatoon • Canada",
+    "streamUrl": "https://rawlco.leanstream.co/CFMCFM"
+  },
+  {
+    "id": "",
+    "name": "INDI 101.5 FM (CIOI)",
+    "country": "canada",
+    "location": "Hamilton • Canada",
+    "streamUrl": "https://hawkstream.mohawkcollege.ca/1/"
+  },
+  {
+    "id": "",
+    "name": "Radio Nursery - Sunny Steps (Day Stream)",
+    "country": "canada",
+    "location": "Hamilton • Canada",
+    "streamUrl": "https://a5.asurahosting.com:7850/radio.mp3"
+  }
+]
