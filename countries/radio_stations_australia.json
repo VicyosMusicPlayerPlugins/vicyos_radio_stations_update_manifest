@@ -1,0 +1,107 @@
+[
+  {
+    "id": "",
+    "name": "ABC NewsRadio",
+    "country": "australia",
+    "location": "Sydney • Australia",
+    "streamUrl": "https://abc.streamguys1.com/live/newsradio/icecast.audio"
+  },
+  {
+    "id": "",
+    "name": "105.7 ABC Darwin",
+    "country": "australia",
+    "location": "Milikapiti • Australia",
+    "streamUrl": "https://abc.streamguys1.com/live/localdarwin/icecast.audio"
+  },
+  {
+    "id": "",
+    "name": "2GB 873 AM",
+    "country": "australia",
+    "location": "Sydney • Australia",
+    "streamUrl": "https://23203.live.streamtheworld.com/2GB.mp3"
+  },
+  {
+    "id": "",
+    "name": "4BC 882",
+    "country": "australia",
+    "location": "Brisbane • Australia",
+    "streamUrl": "https://28803.live.streamtheworld.com/4BC_O_ADP.aac"
+  },
+  {
+    "id": "",
+    "name": "6iX AM 1080",
+    "country": "australia",
+    "location": "Perth • Australia",
+    "streamUrl": "https://23163.live.streamtheworld.com/6IXAAC.aac"
+  },
+  {
+    "id": "",
+    "name": "897FM",
+    "country": "australia",
+    "location": "Joondalup • Australia",
+    "streamUrl": "https://ice8.securenetsystems.net/897FM"
+  },
+  {
+    "id": "",
+    "name": "ABC Brisbane",
+    "country": "australia",
+    "location": "Brisbane • Australia",
+    "streamUrl": "https://abc.streamguys1.com/live/localbrisbane/icecast.audio"
+  },
+  {
+    "id": "",
+    "name": "ABC Classic",
+    "country": "australia",
+    "location": "Sydney • Australia",
+    "streamUrl": "https://abc.streamguys1.com/live/classicfmnsw/icecast.audio"
+  },
+  {
+    "id": "",
+    "name": "ABC North West (WA)",
+    "country": "australia",
+    "location": "Karratha • Australia",
+    "streamUrl": "https://abc.streamguys1.com/live/localpilbara/icecast.audio"
+  },
+  {
+    "id": "",
+    "name": "FIVEaa AM 1395",
+    "country": "australia",
+    "location": "Adelaide • Australia",
+    "streamUrl": "https://28893.live.streamtheworld.com/FIVEAA_AAC48.aac"
+  },
+  {
+    "id": "",
+    "name": "Fresh FM 92.7",
+    "country": "australia",
+    "location": "Adelaide • Australia",
+    "streamUrl": "https://live.fresh927.com.au/freshaac"
+  },
+  {
+    "id": "",
+    "name": "iHeart Australia - The 80s",
+    "country": "australia",
+    "location": "Sydney • Australia",
+    "streamUrl": "https://cloud.revma.ihrhls.com/zc5060?rj-org=n0db-e2&rj-ttl=5&rj-tok=AAABnl7PnU4AqCVXWO6ggD5ZPg"
+  },
+  {
+    "id": "",
+    "name": "Ngaanyatjarra Radio",
+    "country": "australia",
+    "location": "Irrunytju • Australia",
+    "streamUrl": "https://firstnationsmedia.stream:7016/stream"
+  },
+  {
+    "id": "",
+    "name": "SBS Chill",
+    "country": "australia",
+    "location": "Sydney • Australia",
+    "streamUrl": "https://sbs-ice.streamguys1.com/sbschill-sbs-web"
+  },
+  {
+    "id": "",
+    "name": "4RPH AM 1296",
+    "country": "australia",
+    "location": "Brisbane • Australia",
+    "streamUrl": "https://audio-edge-8em5d.yyz.d.radiomast.io/2416c895-f32d-4faa-90a6-b2cf9212488d"
+  }
+]
