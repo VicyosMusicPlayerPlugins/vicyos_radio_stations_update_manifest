@@ -1,0 +1,100 @@
+[
+  {
+    "id": "",
+    "name": "BBC Radio 4",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8"
+  },
+  {
+    "id": "",
+    "name": "LBC London News",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://media-the.musicradio.com/LBC1152"
+  },
+  {
+    "id": "",
+    "name": "BBC World Service",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+  },
+  {
+    "id": "",
+    "name": "60 North Radio",
+    "country": "unitedKingdom",
+    "location": "Hillswick • United Kingdom",
+    "streamUrl": "https://cdn1.zetcast.net/stream"
+  },
+  {
+    "id": "",
+    "name": "80s Radio Zoom",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://17653.live.streamtheworld.com/SAM03AAC226_SC"
+  },
+  {
+    "id": "",
+    "name": "Capital FM Manchester",
+    "country": "unitedKingdom",
+    "location": "Manchester • United Kingdom",
+    "streamUrl": "https://media-ice.musicradio.com/CapitalManchesterMP3?.mp3"
+  },
+  {
+    "id": "",
+    "name": "Capital Xtra Reloaded",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://media-ssl.musicradio.com/CapitalXTRAReloaded"
+  },
+  {
+    "id": "",
+    "name": "Dragon 470 Radio",
+    "country": "unitedKingdom",
+    "location": "Dolgellau • United Kingdom",
+    "streamUrl": "https://s4.radio.co/sf48c236db/listen"
+  },
+  {
+    "id": "",
+    "name": "GB News",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://listen-gbnews.sharp-stream.com/gbnews.mp3"
+  },
+  {
+    "id": "",
+    "name": "LBC London",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://media-the.musicradio.com/LBCLondon"
+  },
+  {
+    "id": "",
+    "name": "Radio Skye FM 102.7",
+    "country": "unitedKingdom",
+    "location": "Portree • United Kingdom",
+    "streamUrl": "https://cuillinf.radioca.st/stream"
+  },
+  {
+    "id": "",
+    "name": "talkRADIO",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://talk.live.stream.broadcasting.news/stream"
+  },
+  {
+    "id": "",
+    "name": "Venture FM",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://c20.radioboss.fm:8383/stream"
+  },
+  {
+    "id": "",
+    "name": "Virgin Radio",
+    "country": "unitedKingdom",
+    "location": "London • United Kingdom",
+    "streamUrl": "https://virgin.live.stream.broadcasting.news/stream"
+  }
+]
