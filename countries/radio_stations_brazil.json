@@ -1,0 +1,72 @@
+[
+  {
+    "id": "",
+    "name": "89.0 FM • A Rádio Rock",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://26653.live.streamtheworld.com/RADIO_89FM_ADP.aac?dist=site-89fm"
+  },
+  {
+    "id": "",
+    "name": "Band FM 96,1",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC_SC"
+  },
+  {
+    "id": "",
+    "name": "Energia 97 | 97.7 FM",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://hela1.streaming.inweb.com.br/energia"
+  },
+  {
+    "id": "",
+    "name": "Metropolitana FM 98.5",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://ice.fabricahost.com.br/metropolitana985sp"
+  },
+  {
+    "id": "",
+    "name": "Transamérica Pop 100.1 ",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SP_SC"
+  },
+  {
+    "id": "",
+    "name": "Jovem Pam 100.9",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://stream-165.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ii1mS0FhNW5GUWJtQnJ1WnVCYVV0YnciLCJpYXQiOjE3NjI0NjA1NzksImV4cCI6MTc2MjQ2MDYzOX0.qZ6lxStUui4U9ISHMChoF7y36f5AqIkMYAbf0T0DIkQ"
+  },
+  {
+    "id": "",
+    "name": "Rádio Imprensa 102.5 FM",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://streaming.fox.srv.br:8048/stream/1/"
+  },
+  {
+    "id": "",
+    "name": "104.3 FM Dumont FM",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://8402.brasilstream.com.br/stream"
+  },
+  {
+    "id": "",
+    "name": "105.1 FM ",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://www.appradio.app:8010/live"
+  },
+  {
+    "id": "",
+    "name": "MIX FM 106.3",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac?dist=mix-web-player-radio_player-ao-vivo&666061.3015838079"
+  }
+]
