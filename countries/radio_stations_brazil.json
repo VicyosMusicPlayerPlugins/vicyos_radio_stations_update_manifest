@@ -8,6 +8,13 @@
   },
   {
     "id": "",
+    "name": "Band FM 96,1",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC_SC"
+  },
+  {
+    "id": "",
     "name": "Energia 97 | 97.7 FM",
     "country": "brazil",
     "location": "São Paulo • Brasil",
