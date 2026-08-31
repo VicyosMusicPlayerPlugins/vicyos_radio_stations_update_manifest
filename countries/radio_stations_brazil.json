@@ -1,4 +1,32 @@
 [
+   {
+    "id": "",
+    "name": "89.0 FM • A Rádio Rock",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://26653.live.streamtheworld.com/RADIO_89FM_ADP.aac?dist=site-89fm"
+  },
+  {
+    "id": "",
+    "name": "Band FM 96,1",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC_SC"
+  },
+  {
+    "id": "",
+    "name": "Energia 97 | 97.7 FM",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://hela1.streaming.inweb.com.br/energia"
+  },
+  {
+    "id": "",
+    "name": "Metropolitana FM 98.5",
+    "country": "brazil",
+    "location": "São Paulo • Brasil",
+    "streamUrl": "https://ice.fabricahost.com.br/metropolitana985sp"
+  },
   {
     "id": "",
     "name": "Transamérica Pop 100.1 ",
