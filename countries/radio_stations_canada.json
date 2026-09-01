@@ -106,13 +106,6 @@
   },
   {
     "id": "",
-    "name": "Sportsnet AM 960",
-    "country": "canada",
-    "location": "Calgary • Canada",
-    "streamUrl": "https://rogers-hls.leanstream.co/rogers/cal960.stream/icy"
-  },
-  {
-    "id": "",
     "name": "Chuck @ 92.5",
     "country": "canada",
     "location": "Edmonton • Canada",
