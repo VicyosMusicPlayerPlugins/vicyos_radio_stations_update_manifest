@@ -8,10 +8,10 @@
   },
   {
     "id": "",
-    "name": "WBTU Country US 93.3 FM",
+    "name": "WKTU 103.5 FM",
     "country": "unitedStates",
-    "location": "Fort Wayne IN, United States",
-    "streamUrl": "https://prod-54-166-216-244.amperwave.net/adamsradio-wbtufmaac-ibc1"
+    "location": "New York NY • United States",
+    "streamUrl": "https://cloud.revma.ihrhls.com/zc1473?rj-org=n29a-e2&rj-ttl=5&rj-tok=AAABogCCy8gAGFyLvMaiSvhnTw"
   },
   {
     "id": "",
@@ -64,10 +64,10 @@
   },
   {
     "id": "",
-    "name": "KJ97 KAJA 97,3",
+    "name": "KIRO Radio FM 97.3",
     "country": "unitedStates",
-    "location": "San Antonio, Texas • United States",
-    "streamUrl": "https://cloud.revma.ihrhls.com/zc2337?rj-org=n26b-e2&rj-ttl=5&rj-tok=AAABnlst4fcAawuqeBxsVi9DVg"
+    "location": "Seattle WA • United States",
+    "streamUrl": "https://bonneville.cdnstream1.com/2643_48.aac"
   },
   {
     "id": "",
@@ -113,17 +113,17 @@
   },
   {
     "id": "",
-    "name": "102.9 NOW",
+    "name": "102.9 The Whale",
     "country": "unitedStates",
-    "location": "Dallas, Texas • United States",
-    "streamUrl": "https://cloud.revma.ihrhls.com/zc2237?rj-org=n21b-e2&rj-ttl=5&rj-tok=AAABnl6vJcIAbesNW8wIKnMg0g"
+    "location": "Hartford CT • United States",
+    "streamUrl": "https://stream-02.surfernetwork.com/3834901420btv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzODM0OTAxNDIwYnR2IiwiaG9zdCI6InN0cmVhbS0wMi5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6IkV3WlI3WkVLUVVTOG9VeFdWYUdrMXciLCJpYXQiOjE3OTUzMDQ2MjIsImV4cCI6MTc5NTMwNDY4Mn0.OY3zM1YSnjKQOU2xPltJmDyf3ey-H2hds6XLJmWFu8g"
   },
   {
     "id": "",
     "name": "103.5 KISS FM",
     "country": "unitedStates",
     "location": "Chicago, Illinois • United States",
-    "streamUrl": "https://cloud.revma.ihrhls.com/zc849?rj-org=n29b-e2&rj-ttl=5&rj-tok=AAABnl6yiyMA3FwtvCwUxKzdFA"
+    "streamUrl": "https://cloud.revma.ihrhls.com/zc849?rj-org=n42a-e2&rj-ttl=5&rj-tok=AAABogCIJOQALPUdPiVXDalfDg"
   },
   {
     "id": "",
@@ -158,7 +158,7 @@
     "name": "FOX News Radio",
     "country": "unitedStates",
     "location": "New York, NY • United States",
-    "streamUrl": "https://prod-34-201-56-215.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=62ae7b760457608117c92076cd2f4d43"
+    "streamUrl": "https://prod-32-195-44-241.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=e0cc6c6981a1dfb1ac832c9bc2796236"
   },
   {
     "id": "",
@@ -172,7 +172,7 @@
     "name": "Fox Sports 990 AM",
     "country": "unitedStates",
     "location": "Honolulu, HI • United States",
-    "streamUrl": "https://cloud.revma.ihrhls.com/zc4750?rj-org=n0cb-e2&rj-ttl=5&rj-tok=AAABnl7FySgAZ1Jc3yhTXrQTdQ"
+    "streamUrl": "https://cloud.revma.ihrhls.com/zc4750?rj-org=n0fa-e2&rj-ttl=5&rj-tok=AAABogCJU6IAqyV-vfUzeQpf2w"
   },
   {
     "id": "",
@@ -186,7 +186,7 @@
     "name": "Newsradio 970 WFLA",
     "country": "unitedStates",
     "location": "Seminole, FL • United States",
-    "streamUrl": "https://cloud.revma.ihrhls.com/zc2823?rj-org=n31b-e2&rj-ttl=5&rj-tok=AAABnl7HfW0AqF-VIA4j9oMr6w"
+    "streamUrl": "https://cloud.revma.ihrhls.com/zc2823?rj-org=n3ea-e2&rj-ttl=5&rj-tok=AAABogCKGQoADb2l1xkJoUoQhA"
   },
   {
     "id": "",
@@ -207,6 +207,6 @@
     "name": "KWAKE Radio - King Without a Krown Everyday",
     "country": "unitedStates",
     "location": "Galesburg IL • United States",
-    "streamUrl": "https://das-edge62-live365-dal03.cdnstream.com/a16428"
+    "streamUrl": "https://das-edge93-live365-dal05.cdnstream.com/a16428"
   }
 ]
