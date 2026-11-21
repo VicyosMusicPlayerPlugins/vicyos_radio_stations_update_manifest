@@ -32,7 +32,7 @@
     "name": "80s Radio Zoom",
     "country": "unitedKingdom",
     "location": "London • United Kingdom",
-    "streamUrl": "https://17653.live.streamtheworld.com/SAM03AAC226_SC"
+    "streamUrl": "https://18093.live.streamtheworld.com/SAM03AAC226_SC"
   },
   {
     "id": "",
@@ -74,7 +74,7 @@
     "name": "Radio Skye FM 102.7",
     "country": "unitedKingdom",
     "location": "Portree • United Kingdom",
-    "streamUrl": "https://cuillinf.radioca.st/stream"
+    "streamUrl": "https://uksoutha.streaming.broadcast.radio/radioskye"
   },
   {
     "id": "",
@@ -89,12 +89,5 @@
     "country": "unitedKingdom",
     "location": "London • United Kingdom",
     "streamUrl": "https://c20.radioboss.fm:8383/stream"
-  },
-  {
-    "id": "",
-    "name": "Virgin Radio",
-    "country": "unitedKingdom",
-    "location": "London • United Kingdom",
-    "streamUrl": "https://virgin.live.stream.broadcasting.news/stream"
   }
 ]
